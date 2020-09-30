@@ -1,0 +1,2 @@
+vhdl work "test_D_flipflop1.vhd"
+vhdl work "tb_test_D_flipflop1.vhd"

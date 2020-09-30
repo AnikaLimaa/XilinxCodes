@@ -1,5 +1,5 @@
 ISim log file
-Running: C:\Users\ASUS\Desktop\DSD_lab\all code\test_halfadder1\tb_test_halfadder1_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/ASUS/Desktop/DSD_lab/all code/test_halfadder1/tb_test_halfadder1_isim_beh.wdb 
+Running: C:\Users\ASUS\Desktop\DSD_lab\my_test\test_D_flipflop1\tb_test_D_flipflop1_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/Users/ASUS/Desktop/DSD_lab/my_test/test_D_flipflop1/tb_test_D_flipflop1_isim_beh.wdb 
 ISim P.20131013 (signature 0x7708f090)
 This is a Full version of ISim.
 Time resolution is 1 ps

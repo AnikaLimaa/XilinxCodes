@@ -1,1 +1,1 @@
--intstyle "ise" -incremental -lib "secureip" -o "C:/Users/ASUS/Desktop/DSD_lab/all code/test_halfadder1/tb_test_halfadder1_isim_beh.exe" -prj "C:/Users/ASUS/Desktop/DSD_lab/all code/test_halfadder1/tb_test_halfadder1_beh.prj" "work.tb_test_halfadder1" 
+-intstyle "ise" -incremental -o "C:/Users/ASUS/Desktop/DSD_lab/my_test/test_D_flipflop1/tb_test_D_flipflop1_isim_beh.exe" -prj "C:/Users/ASUS/Desktop/DSD_lab/my_test/test_D_flipflop1/tb_test_D_flipflop1_beh.prj" "work.tb_test_D_flipflop1" 
