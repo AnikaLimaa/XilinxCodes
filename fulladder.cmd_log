@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/ASUS/Desktop/DSD_lab/my_test/test_fulladder_usinghalf1/fulladder.xst" -ofn "C:/Users/ASUS/Desktop/DSD_lab/my_test/test_fulladder_usinghalf1/fulladder.syr" 

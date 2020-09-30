@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/ASUS/Desktop/DSD_lab/all code/test_4bitcomparator1/test_4bitcomparator.xst" -ofn "C:/Users/ASUS/Desktop/DSD_lab/all code/test_4bitcomparator1/test_4bitcomparator.syr" 

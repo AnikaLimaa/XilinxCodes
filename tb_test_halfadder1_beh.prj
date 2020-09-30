@@ -1,0 +1,2 @@
+vhdl work "test_halfadder1.vhd"
+vhdl work "tb_test_halfadder1.vhd"
